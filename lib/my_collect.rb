@@ -1,5 +1,8 @@
 def my_collection(collection)
-  i = 0
+  counter = 0
   collection = []
-
+  while counter <collection.length
+    list << yiel(collection[counter])
+    counter += 1
+  end
 end
