@@ -1,4 +1,4 @@
-def my_colllection(collection)
+def my_collection(collection)
   i = 0
   collection = []
 
