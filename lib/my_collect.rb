@@ -5,4 +5,5 @@ def my_collection(collection)
     list << yiel(collection[counter])
     counter += 1
   end
+  list
 end
