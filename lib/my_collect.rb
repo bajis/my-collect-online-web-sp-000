@@ -1,4 +1,4 @@
-def my_collection(argument)
+def my_collect(argument)
   counter = 0
   argument = []
   while counter <collection.length
@@ -8,3 +8,6 @@ def my_collection(argument)
   collection
 
 end
+
+array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+my_
