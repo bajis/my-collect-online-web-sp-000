@@ -5,7 +5,7 @@ def my_collect(arr)
     list << yield(arr[counter])
     counter += 1
   end
-  collection
+  list
 
 end
 
