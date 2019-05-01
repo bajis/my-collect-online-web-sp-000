@@ -1,6 +1,6 @@
-def my_collection(collection)
+def my_collection(argument)
   counter = 0
-  collection = []
+  argument = []
   while counter <collection.length
     collection << yiel(collection[counter])
     counter += 1
