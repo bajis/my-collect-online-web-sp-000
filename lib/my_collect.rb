@@ -1,8 +1,8 @@
-def my_collect(argument)
+def my_collect(arr)
   counter = 0
   argument = []
-  while counter <collection.length
-    collection << yield(collection[counter])
+  while counter <arr.length
+    collection << yield(arr[counter])
     counter += 1
   end
   collection
